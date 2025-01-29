@@ -1,1 +1,3 @@
-# This is a repository to write some leetcode# This is a repository to write some leetcode# This is a repository to write some leetcode
+# README
+
+I am just having fun trying to do some leetcode
